@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tb3/catkin_ws_pg/devel/setup.sh
